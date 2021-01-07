@@ -14,4 +14,8 @@
 
 ## Amazing Spider-Man 1
 
-- 2012, Andrew 
+- 2012, Andrew
+
+## Amazing Spider-man 2
+
+- 2014, Andrew 
