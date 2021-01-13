@@ -19,3 +19,7 @@
 ## The Amazing Spider-Man 2
 
 - 2014, Andrew Garfield
+
+## Venom
+
+- 2018, Tom Hardy
